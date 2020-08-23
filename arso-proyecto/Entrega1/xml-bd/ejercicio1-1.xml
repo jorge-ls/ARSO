@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ciudad SYSTEM "../xml/ejercicio1-1.dtd" >
+<ciudad codigo="2520058" fechaactualizacion="2012-03-04">
+  <nombre>Cartagena</nombre>
+  <pais>Spain</pais>
+  <poblacion>211996</poblacion>
+  <ubicacion>
+    <latitud>37.60512</latitud>
+    <longitud>-0.98623</longitud>
+  </ubicacion>
+  <dbpedia>http://dbpedia.org/resource/Cartagena%2C_Spain</dbpedia>
+  <wikipedia>https://en.wikipedia.org/wiki/Cartagena%2C_Spain</wikipedia>
+  <informacionmeteorologica fechayhora="2019-02-04 12:00:00">
+  	<nombreestacion> International airport of the Region of Murcia</nombreestacion>
+  	<temperatura>13</temperatura>
+  	<nubes>clouds and visibility OK</nubes>
+  </informacionmeteorologica>
+  	<sitio codigo="10860321">
+  		<nombre>Parque Maestranza de Arrtilleria</nombre>
+  	</sitio>
+  	<sitio codigo="10280776">
+  		<nombre>Museo Histórico Militar de Cartagena</nombre>
+  	</sitio>
+  
+</ciudad>

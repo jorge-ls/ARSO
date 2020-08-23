@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+	targetNamespace="http://www.example.org/ejercicio1-2"
+	xmlns:tns="http://www.example.org/ejercicio1-2"
+	elementFormDefault="qualified">
+	
+	<complexType name="tipo_ubicacion">
+		<sequence>
+			<element name="latitud" type="decimal" />
+			<element name="longitud" type="decimal" />
+		</sequence>
+	</complexType>
+	
+	<complexType name="tipo_informacionmeteorologica">
+	 	<sequence>
+	 		<element name="fechayhora" type="dateTime" />
+	 		<element name="nombreestacion" type="string" />
+	 		<element name="temperatura" type="decimal" />
+	 		<element name="nubes" type="string" />
+	 	</sequence>
+	 </complexType>
+	
+	<complexType name="tipo_sitio">
+		<sequence>
+			<element name="nombre" type="string" />
+		</sequence>
+		<attribute name="codigo" type="string" use="required" />
+	</complexType>
+	
+	<complexType name="tipo_libro">
+		<sequence>
+			<element name="titulo" type="string" />
+			<element name="isbn" type="string" minOccurs="0" />
+			<element name="urlImagen" type="string" />
+			<element name="urlWeb" type="string" />
+		</sequence>
+		<attribute name="id" type="string" use="required" />
+	</complexType>
+	
+	<element name="ciudad">
+		<complexType>
+			<sequence>
+				<element name="nombre" type="string" />
+				<element name="pais" type="string" />
+				<element name="poblacion" type="int" />
+				<element name="ubicacion" type="tns:tipo_ubicacion" />
+				<element name="dbpedia" type="string" minOccurs="0" />
+				<element name="wikipedia" type="string" minOccurs="0" />
+				<element name="fechaactualizacion" type="date" />
+				<element name="informacionmeteorologica" minOccurs="0" type="tns:tipo_informacionmeteorologica" />
+				<element name="sitio" minOccurs="0" maxOccurs="unbounded" type="tns:tipo_sitio" />
+				<element name="libro" type="tns:tipo_libro" minOccurs="0" maxOccurs="3" />
+			</sequence>
+			<attribute name="codigo" type="string" use="required"	/>
+		</complexType>
+	</element>
+</schema>

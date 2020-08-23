@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ciudad codigo="2520058"
+	xmlns="http://www.example.org/ejercicio1-2"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.example.org/ejercicio1-2 ../xml/ejercicio1-2.xsd ">
+  <nombre>Cartagena</nombre>
+  <pais>Spain</pais>
+  <poblacion>211996</poblacion>
+  <ubicacion>
+    <latitud>37.6512</latitud>
+    <longitud>-0.98623</longitud>
+  </ubicacion>
+  <dbpedia>http://dbpedia.org/resource/Cartagena%2C_Spain</dbpedia>
+  <wikipedia>http://en.wikipedia.org/wiki/Cartagena%2C_Spain</wikipedia>
+  <fechaactualizacion>2012-03-04</fechaactualizacion>
+  <informacionmeteorologica>
+  	<fechayhora>2019-02-04T12:00:00</fechayhora>
+  	<nombreestacion>International airport of the Region of Murcia</nombreestacion>
+  	<temperatura>13</temperatura>
+  	<nubes>clouds and visibility OK</nubes>
+  </informacionmeteorologica>
+  <sitio codigo="10860321">
+	<nombre>Parque Maestranza de Artilleria</nombre>
+  </sitio>
+  <sitio codigo="10280776">
+	<nombre>Museo Histórico Militar de Cartagena</nombre>
+  </sitio>
+</ciudad>

@@ -1,0 +1,870 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/'
+	xmlns:gbs='http://schemas.google.com/books/2008' xmlns:gd='http://schemas.google.com/g/2005'
+	xmlns:batch='http://schemas.google.com/gdata/batch' xmlns:dc='http://purl.org/dc/terms'>
+	<id>http://www.google.com/books/feeds/volumes</id>
+	<updated>2019-04-17T15:11:46.000Z</updated>
+	<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/books/2008#volume' />
+	<title type='text'>Search results for cartagena</title>
+	<link rel='alternate' type='text/html' href='http://www.google.com' />
+	<link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml'
+		href='http://www.google.com/books/feeds/volumes' />
+	<link rel='self' type='application/atom+xml'
+		href='http://www.google.com/books/feeds/volumes?q=cartagena&amp;start-index=1&amp;max-results=100' />
+	<link rel='next' type='application/atom+xml'
+		href='http://www.google.com/books/feeds/volumes?q=cartagena&amp;start-index=101&amp;max-results=100' />
+	<author>
+		<name>Google Books
+			Search
+		</name>
+		<uri>http://www.google.com</uri>
+	</author>
+	<generator version='beta'>Google Book Search data
+		API
+	</generator>
+	<openSearch:totalResults>1471</openSearch:totalResults>
+	<openSearch:startIndex>1</openSearch:startIndex>
+	<openSearch:itemsPerPage>100
+	</openSearch:itemsPerPage>
+	<entry>
+		<id>http://www.google.com/books/feeds/volumes/29p5Jd9HWWQC</id>
+		<updated>2019-04-17T15:11:46.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind'
+			term='http://schemas.google.com/books/2008#volume' />
+		<title type='text'>Cartagena vista por los viajeros, siglo XVIII-XX
+		</title>
+		<link rel='http://schemas.google.com/books/2008/thumbnail' type='image/x-unknown'
+			href='http://books.google.com/books/content?id=29p5Jd9HWWQC&amp;printsec=frontcover&amp;img=1&amp;zoom=5&amp;edge=curl&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/info' type='text/html'
+			href='http://books.google.com/books?id=29p5Jd9HWWQC&amp;dq=cartagena&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/preview' type='text/html'
+			href='http://books.google.com/books?id=29p5Jd9HWWQC&amp;printsec=frontcover&amp;dq=cartagena&amp;cd=1&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/annotation' type='application/atom+xml'
+			href='http://www.google.com/books/feeds/users/me/volumes' />
+		<link rel='alternate' type='text/html'
+			href='http://books.google.com/books?id=29p5Jd9HWWQC&amp;dq=cartagena' />
+		<link rel='self' type='application/atom+xml'
+			href='http://www.google.com/books/feeds/volumes/29p5Jd9HWWQC' />
+		<gbs:contentVersion>preview-1.0.0</gbs:contentVersion>
+		<gbs:embeddability value='http://schemas.google.com/books/2008#embeddable' />
+		<gbs:openAccess value='http://schemas.google.com/books/2008#disabled' />
+		<gbs:viewability value='http://schemas.google.com/books/2008#view_partial' />
+		<dc:creator>Orlando Deavila - Lorena Guerrero</dc:creator>
+		<dc:format>book</dc:format>
+		<dc:identifier>29p5Jd9HWWQC</dc:identifier>
+		<dc:identifier>GGKEY:DC9LTDGQH17</dc:identifier>
+		<dc:language>es</dc:language>
+		<dc:publisher>Orlando Deavila</dc:publisher>
+		<dc:title>Cartagena vista por los viajeros, siglo XVIII-XX</dc:title>
+	</entry>
+	<entry>
+		<id>http://www.google.com/books/feeds/volumes/hV-bQJo8wOIC</id>
+		<updated>2019-04-17T15:11:46.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind'
+			term='http://schemas.google.com/books/2008#volume' />
+		<title type='text'>Cartagena de Indias en el siglo XVI</title>
+		<link rel='http://schemas.google.com/books/2008/thumbnail' type='image/x-unknown'
+			href='http://books.google.com/books/content?id=hV-bQJo8wOIC&amp;printsec=frontcover&amp;img=1&amp;zoom=5&amp;edge=curl&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/info' type='text/html'
+			href='http://books.google.com/books?id=hV-bQJo8wOIC&amp;dq=cartagena&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/preview' type='text/html'
+			href='http://books.google.com/books?id=hV-bQJo8wOIC&amp;printsec=frontcover&amp;dq=cartagena&amp;cd=2&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/annotation' type='application/atom+xml'
+			href='http://www.google.com/books/feeds/users/me/volumes' />
+		<link rel='alternate' type='text/html'
+			href='http://books.google.com/books?id=hV-bQJo8wOIC&amp;dq=cartagena' />
+		<link rel='self' type='application/atom+xml'
+			href='http://www.google.com/books/feeds/volumes/hV-bQJo8wOIC' />
+		<gbs:contentVersion>1.2.0.0.preview.1</gbs:contentVersion>
+		<gbs:embeddability value='http://schemas.google.com/books/2008#embeddable' />
+		<gbs:openAccess value='http://schemas.google.com/books/2008#disabled' />
+		<gbs:viewability value='http://schemas.google.com/books/2008#view_partial' />
+		<dc:creator>María del Carmen Borrego Plá</dc:creator>
+		<dc:date>1983</dc:date>
+		<dc:format>556
+			pages
+		</dc:format>
+		<dc:format>book</dc:format>
+		<dc:identifier>hV-bQJo8wOIC</dc:identifier>
+		<dc:identifier>ISBN:8400054407</dc:identifier>
+		<dc:identifier>ISBN:9788400054
+			403
+		</dc:identifier>
+		<dc:language>es</dc:language>
+		<dc:publisher>Editorial CSIC - CSIC Press</dc:publisher>
+		<dc:subject>América - Historia - Siglo
+			XVI
+		</dc:subject>
+		<dc:title>Cartagena de Indias en el siglo
+			XVI
+		</dc:title>
+	</entry>
+	<entry>
+		<id>http://www.google.com/books/feeds/volumes/vDK1OYmdtKsC</id>
+		<updated>2019-04-17T15:11:46.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind'
+			term='http://schemas.google.com/books/2008#volume' />
+		<title type='text'>Cartagena</title>
+		<link rel='http://schemas.google.com/books/2008/thumbnail' type='image/x-unknown'
+			href='http://books.google.com/books/content?id=vDK1OYmdtKsC&amp;printsec=frontcover&amp;img=1&amp;zoom=5&amp;edge=curl&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/info' type='text/html'
+			href='http://books.google.com/books?id=vDK1OYmdtKsC&amp;dq=cartagena&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/preview' type='text/html'
+			href='http://books.google.com/books?id=vDK1OYmdtKsC&amp;printsec=frontcover&amp;dq=cartagena&amp;cd=3&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/annotation' type='application/atom+xml'
+			href='http://www.google.com/books/feeds/users/me/volumes' />
+		<link rel='alternate' type='text/html'
+			href='http://books.google.com/books?id=vDK1OYmdtKsC&amp;dq=cartagena' />
+		<link rel='self' type='application/atom+xml'
+			href='http://www.google.com/books/feeds/volumes/vDK1OYmdtKsC' />
+		<gbs:contentVersion>0.0.1.0.preview.1</gbs:contentVersion>
+		<gbs:embeddability value='http://schemas.google.com/books/2008#embeddable' />
+		<gbs:openAccess value='http://schemas.google.com/books/2008#disabled' />
+		<gbs:viewability value='http://schemas.google.com/books/2008#view_partial' />
+		<dc:creator>Víctor M. Navarro</dc:creator>
+		<dc:date>1994-01-01</dc:date>
+		<dc:format>87
+			pages
+		</dc:format>
+		<dc:format>book</dc:format>
+		<dc:identifier>vDK1OYmdtKsC</dc:identifier>
+		<dc:identifier>ISBN:9683637752</dc:identifier>
+		<dc:identifier>ISBN:9789683637
+			758
+		</dc:identifier>
+		<dc:language>es</dc:language>
+		<dc:publisher>UNAM</dc:publisher>
+		<dc:title>Cartagena</dc:title>
+	</entry>
+	<entry>
+		<id>http://www.google.com/books/feeds
+			/volumes/Xg9sAAAAMAAJ
+		</id>
+		<updated>2019-04-17T15:11:46.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind'
+			term='http://schemas.google.com/books/2008#volume' />
+		<title type='text'>Cartagena y su gente</title>
+		<link rel='http://schemas.google.com/books/2008/thumbnail' type='image/x-unknown'
+			href='http://books.google.com/books/content?id=Xg9sAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=5&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/info' type='text/html'
+			href='http://books.google.com/books?id=Xg9sAAAAMAAJ&amp;dq=cartagena&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/preview' type='text/html'
+			href='http://books.google.com/books?id=Xg9sAAAAMAAJ&amp;q=cartagena&amp;dq=cartagena&amp;cd=4&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/annotation' type='application/atom+xml'
+			href='http://www.google.com/books/feeds/users/me/volumes' />
+		<link rel='alternate' type='text/html'
+			href='http://books.google.com/books?id=Xg9sAAAAMAAJ&amp;dq=cartagena' />
+		<link rel='self' type='application/atom+xml'
+			href='http://www.google.com/books/feeds/volumes/Xg9sAAAAMAAJ' />
+		<gbs:contentVersion>0.0.1.0.preview.0</gbs:contentVersion>
+		<gbs:embeddability
+			value='http://schemas.google.com/books/2008#not_embeddable' />
+		<gbs:openAccess value='http://schemas.google.com/books/2008#disabled' />
+		<gbs:viewability value='http://schemas.google.com/books/2008#view_no_pages' />
+		<dc:creator>Ramón Manrique</dc:creator>
+		<dc:date>1945</dc:date>
+		<dc:format>359
+			pages
+		</dc:format>
+		<dc:format>book</dc:format>
+		<dc:identifier>Xg9sAAAAMAAJ</dc:identifier>
+		<dc:identifier>UTEXAS:059173018475319</dc:identifier>
+		<dc:language>es
+		</dc:language>
+		<dc:subject>Cartagena (Colombia)</dc:subject>
+		<dc:title>Cartagena y su
+			gente
+		</dc:title>
+	</entry>
+	<entry>
+		<id>http://www.google.com/books/feeds/volumes/JztJAQAAIAAJ</id>
+		<updated>2019-04-17T15:11:46.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind'
+			term='http://schemas.google.com/books/2008#volume' />
+		<title type='text'>Renacimiento y arquitectura religiosa en la
+			antigua Diócesis de Cartagena, Reyno de Murcia, Gobernación de Orihuela y
+			Sierra del Segura
+		</title>
+		<link rel='http://schemas.google.com/books/2008/thumbnail' type='image/x-unknown'
+			href='http://books.google.com/books/content?id=JztJAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=5&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/info' type='text/html'
+			href='http://books.google.com/books?id=JztJAQAAIAAJ&amp;dq=cartagena&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/preview' type='text/html'
+			href='http://books.google.com/books?id=JztJAQAAIAAJ&amp;q=cartagena&amp;dq=cartagena&amp;cd=5&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/annotation' type='application/atom+xml'
+			href='http://www.google.com/books/feeds/users/me/volumes' />
+		<link rel='alternate' type='text/html'
+			href='http://books.google.com/books?id=JztJAQAAIAAJ&amp;dq=cartagena' />
+		<link rel='self' type='application/atom+xml'
+			href='http://www.google.com/books/feeds/volumes/JztJAQAAIAAJ' />
+		<gbs:contentVersion>0.1.1.0.preview.0</gbs:contentVersion>
+		<gbs:embeddability
+			value='http://schemas.google.com/books/2008#not_embeddable' />
+		<gbs:openAccess value='http://schemas.google.com/books/2008#disabled' />
+		<gbs:viewability value='http://schemas.google.com/books/2008#view_no_pages' />
+		<dc:creator>Cristina Gutiérrez-Cortines
+			Corral
+		</dc:creator>
+		<dc:date>1987-01-01</dc:date>
+		<dc:format>540
+			pages
+		</dc:format>
+		<dc:format>book</dc:format>
+		<dc:identifier>JztJAQAAIAAJ</dc:identifier>
+		<dc:identifier>STANFORD:36105025940086</dc:identifier>
+		<dc:language>es
+		</dc:language>
+		<dc:subject>Architecture, Renaissance</dc:subject>
+		<dc:title>Renacimiento y arquitectura religiosa en la antigua Diócesis
+			de Cartagena, Reyno de Murcia,
+			Gobernación de Orihuela y Sierra del
+			Segura
+		</dc:title>
+	</entry>
+	<entry>
+		<id>http://www.google.com/books/feeds/volumes/JCKhRzia190C</id>
+		<updated>2019-04-17T15:11:46.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind'
+			term='http://schemas.google.com/books/2008#volume' />
+		<title type='text'>Pedro de Heredia y Cartagena de
+			Indias
+		</title>
+		<link rel='http://schemas.google.com/books/2008/thumbnail' type='image/x-unknown'
+			href='http://books.google.com/books/content?id=JCKhRzia190C&amp;printsec=frontcover&amp;img=1&amp;zoom=5&amp;edge=curl&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/info' type='text/html'
+			href='http://books.google.com/books?id=JCKhRzia190C&amp;dq=cartagena&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/preview' type='text/html'
+			href='http://books.google.com/books?id=JCKhRzia190C&amp;printsec=frontcover&amp;dq=cartagena&amp;cd=6&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/annotation' type='application/atom+xml'
+			href='http://www.google.com/books/feeds/users/me/volumes' />
+		<link rel='alternate' type='text/html'
+			href='http://books.google.com/books?id=JCKhRzia190C&amp;dq=cartagena' />
+		<link rel='self' type='application/atom+xml'
+			href='http://www.google.com/books/feeds/volumes/JCKhRzia190C' />
+		<gbs:contentVersion>1.1.0.0.preview.1</gbs:contentVersion>
+		<gbs:embeddability value='http://schemas.google.com/books/2008#embeddable' />
+		<gbs:openAccess value='http://schemas.google.com/books/2008#disabled' />
+		<gbs:viewability value='http://schemas.google.com/books/2008#view_partial' />
+		<dc:creator>María del Carmen Gómez Pérez</dc:creator>
+		<dc:date>1984-01-01</dc:date>
+		<dc:format>460
+			pages
+		</dc:format>
+		<dc:format>book</dc:format>
+		<dc:identifier>JCKhRzia190C</dc:identifier>
+		<dc:identifier>ISBN:840005914X</dc:identifier>
+		<dc:identifier>ISBN:9788400059
+			149
+		</dc:identifier>
+		<dc:language>es</dc:language>
+		<dc:publisher>Editorial CSIC - CSIC Press</dc:publisher>
+		<dc:subject>Cartagena
+			(Colombia)
+		</dc:subject>
+		<dc:title>Pedro de Heredia y Cartagena de
+			Indias
+		</dc:title>
+	</entry>
+	<entry>
+		<id>http://www.google.com/books/feeds/volumes/cyqnCgAAQBAJ</id>
+		<updated>2019-04-17T15:11:46.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind'
+			term='http://schemas.google.com/books/2008#volume' />
+		<title type='text'>Cartagena</title>
+		<link rel='http://schemas.google.com/books/2008/thumbnail' type='image/x-unknown'
+			href='http://books.google.com/books/content?id=cyqnCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=5&amp;edge=curl&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/info' type='text/html'
+			href='http://books.google.com/books?id=cyqnCgAAQBAJ&amp;dq=cartagena&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/preview' type='text/html'
+			href='http://books.google.com/books?id=cyqnCgAAQBAJ&amp;printsec=frontcover&amp;dq=cartagena&amp;cd=7&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/annotation' type='application/atom+xml'
+			href='http://www.google.com/books/feeds/users/me/volumes' />
+		<link rel='http://schemas.google.com/books/2008/buylink' type='text/html'
+			href='https://play.google.com/store/books/details?id=cyqnCgAAQBAJ&amp;rdid=book-cyqnCgAAQBAJ&amp;rdot=1&amp;source=gbs_gdata' />
+		<link rel='alternate' type='text/html'
+			href='http://books.google.com/books?id=cyqnCgAAQBAJ&amp;dq=cartagena' />
+		<link rel='self' type='application/atom+xml'
+			href='http://www.google.com/books/feeds/volumes/cyqnCgAAQBAJ' />
+		<gbs:contentVersion>1.6.4.0.preview.3</gbs:contentVersion>
+		<gbs:embeddability value='http://schemas.google.com/books/2008#embeddable' />
+		<gbs:openAccess value='http://schemas.google.com/books/2008#disabled' />
+		<gbs:viewability value='http://schemas.google.com/books/2008#view_partial' />
+		<dc:creator>Claudia Amengual</dc:creator>
+		<dc:date>2015-09-01</dc:date>
+		<dc:description>Sin eludir las
+			asperezas de la vida, Cartagena es una historia de amor, de piedad y de
+			esperanza.
+		</dc:description>
+		<dc:format>263
+			pages
+		</dc:format>
+		<dc:format>book</dc:format>
+		<dc:identifier>cyqnCgAAQBAJ</dc:identifier>
+		<dc:identifier>ISBN:9789974732421</dc:identifier>
+		<dc:identifier>ISBN:9974732
+			425
+		</dc:identifier>
+		<dc:language>es</dc:language>
+		<gbs:price type='SuggestedRetailPrice'>
+			<gd:money amount='6.99' currencyCode='EUR' />
+		</gbs:price>
+		<gbs:price type='RetailPrice'>
+			<gd:money amount='6.64' currencyCode='EUR' />
+		</gbs:price>
+		<dc:publisher>ALFAGUARA</dc:publisher>
+		<dc:subject>Fiction</dc:subject>
+		<dc:title>Cartagena</dc:title>
+	</entry>
+	<entry>
+		<id>http://www.g
+			oogle.com/books/feeds/volumes/gLLTbqboebYC
+		</id>
+		<updated>2019-04-17T15:11:46.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind'
+			term='http://schemas.google.com/books/2008#volume' />
+		<title type='text'>Un Tren a Cartagena</title>
+		<link rel='http://schemas.google.com/books/2008/thumbnail' type='image/x-unknown'
+			href='http://books.google.com/books/content?id=gLLTbqboebYC&amp;printsec=frontcover&amp;img=1&amp;zoom=5&amp;edge=curl&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/info' type='text/html'
+			href='http://books.google.com/books?id=gLLTbqboebYC&amp;dq=cartagena&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/preview' type='text/html'
+			href='http://books.google.com/books?id=gLLTbqboebYC&amp;printsec=frontcover&amp;dq=cartagena&amp;cd=8&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/annotation' type='application/atom+xml'
+			href='http://www.google.com/books/feeds/users/me/volumes' />
+		<link rel='alternate' type='text/html'
+			href='http://books.google.com/books?id=gLLTbqboebYC&amp;dq=cartagena' />
+		<link rel='self' type='application/atom+xml'
+			href='http://www.google.com/books/feeds/volumes/gLLTbqboebYC' />
+		<gbs:contentVersion>1.1.1.0.preview.1</gbs:contentVersion>
+		<gbs:embeddability value='http://schemas.google.com/books/2008#embeddable' />
+		<gbs:openAccess value='http://schemas.google.com/books/2008#disabled' />
+		<gd:rating min='1' max='5' average='5.00' />
+		<gbs:viewability value='http://schemas.google.com/books/2008#view_partial' />
+		<dc:creator>Sandra
+			Matiasevich
+		</dc:creator>
+		<dc:date>1992-07-01</dc:date>
+		<dc:format>125
+			pages
+		</dc:format>
+		<dc:format>book</dc:format>
+		<dc:identifier>gLLTbqboebYC</dc:identifier>
+		<dc:identifier>ISBN:9505810962</dc:identifier>
+		<dc:identifier>ISBN:9789505810
+			963
+		</dc:identifier>
+		<dc:language>es</dc:language>
+		<dc:publisher>Ediciones Colihue SRL</dc:publisher>
+		<dc:subject>Fiction</dc:subject>
+		<dc:title>Un Tren a
+			Cartagena
+		</dc:title>
+	</entry>
+	<entry>
+		<id>http://www.google.com/books/feeds/volumes/ODaGAAAAIAAJ</id>
+		<updated>2019-04-17T15:11:46.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind'
+			term='http://schemas.google.com/books/2008#volume' />
+		<title type='text'>La actividad comercial y el grupo de
+			comerciantes de Cartagena a fines del siglo xix
+		</title>
+		<link rel='http://schemas.google.com/books/2008/thumbnail' type='image/x-unknown'
+			href='http://books.google.com/books/content?id=ODaGAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=5&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/info' type='text/html'
+			href='http://books.google.com/books?id=ODaGAAAAIAAJ&amp;dq=cartagena&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/preview' type='text/html'
+			href='http://books.google.com/books?id=ODaGAAAAIAAJ&amp;q=cartagena&amp;dq=cartagena&amp;cd=9&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/annotation' type='application/atom+xml'
+			href='http://www.google.com/books/feeds/users/me/volumes' />
+		<link rel='alternate' type='text/html'
+			href='http://books.google.com/books?id=ODaGAAAAIAAJ&amp;dq=cartagena' />
+		<link rel='self' type='application/atom+xml'
+			href='http://www.google.com/books/feeds/volumes/ODaGAAAAIAAJ' />
+		<gbs:contentVersion>0.0.1.0.preview.0</gbs:contentVersion>
+		<gbs:embeddability
+			value='http://schemas.google.com/books/2008#not_embeddable' />
+		<gbs:openAccess value='http://schemas.google.com/books/2008#disabled' />
+		<gbs:viewability value='http://schemas.google.com/books/2008#view_no_pages' />
+		<dc:creator>Jorge Alberto Restrepo Restrepo</dc:creator>
+		<dc:creator>Manuel Rodríguez
+			Becerra
+		</dc:creator>
+		<dc:date>1987</dc:date>
+		<dc:format>63
+			pages
+		</dc:format>
+		<dc:format>book</dc:format>
+		<dc:identifier>ODaGAAAAIAAJ</dc:identifier>
+		<dc:identifier>STANFORD:36105040878345</dc:identifier>
+		<dc:language>
+			es
+		</dc:language>
+			<dc:subject>Elite (Social sciences)</dc:subject>
+			<dc:title>La actividad comercial y el grupo de comerciantes de
+				Cartagena a fines del siglo
+				xix
+			</dc:title>
+	</entry>
+	<entry>
+		<id>http://www.google.com/books/feeds/volumes/iK84XwAACAAJ</id>
+		<updated>2019-04-17T15:11:46.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind'
+			term='http://schemas.google.com/books/2008#volume' />
+		<title type='text'>Documentario de Cartagena</title>
+		<link rel='http://schemas.google.com/books/2008/info' type='text/html'
+			href='http://books.google.com/books?id=iK84XwAACAAJ&amp;dq=cartagena&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/preview' type='text/html'
+			href='http://books.google.com/books?id=iK84XwAACAAJ&amp;dq=cartagena&amp;cd=10&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/annotation' type='application/atom+xml'
+			href='http://www.google.com/books/feeds/users/me/volumes' />
+		<link rel='alternate' type='text/html'
+			href='http://books.google.com/books?id=iK84XwAACAAJ&amp;dq=cartagena' />
+		<link rel='self' type='application/atom+xml'
+			href='http://www.google.com/books/feeds/volumes/iK84XwAACAAJ' />
+		<gbs:contentVersion>preview-1.0.0</gbs:contentVersion>
+		<gbs:embeddability
+			value='http://schemas.google.com/books/2008#not_embeddable' />
+		<gbs:openAccess value='http://schemas.google.com/books/2008#disabled' />
+		<gbs:viewability value='http://schemas.google.com/books/2008#view_no_pages' />
+		<dc:creator>Cartagena (Colombia). Diocese</dc:creator>
+		<dc:date>1956</dc:date>
+		<dc:format>22
+			pages
+		</dc:format>
+		<dc:format>book</dc:format>
+		<dc:identifier>iK84XwAACAAJ</dc:identifier>
+		<dc:identifier>OCLC:611722863</dc:identifier>
+		<dc:language>es</dc:language>
+		<dc:subject>
+			Cartagena (Colombia)
+		</dc:subject>
+			<dc:title>Documentario de Cartagena</dc:title>
+			<dc:title>Facsimiles de los documentos historicos relativos a la
+				institucion del Obispado de la Provincia de Cartagena y nombramiento
+				de su primer obispo conforme a los originales que reposan en el
+				archivo general de Indias de
+				Sevilla (España)
+			</dc:title>
+	</entry>
+	<entry>
+		<id>http://www.google.com/books/feeds/volumes/t2FItc1uOwYC</id>
+		<updated>2019-04-17T15:11:46.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind'
+			term='http://schemas.google.com/books/2008#volume' />
+		<title type='text'>Cartagena de Indias</title>
+		<link rel='http://schemas.google.com/books/2008/thumbnail' type='image/x-unknown'
+			href='http://books.google.com/books/content?id=t2FItc1uOwYC&amp;printsec=frontcover&amp;img=1&amp;zoom=5&amp;edge=curl&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/info' type='text/html'
+			href='http://books.google.com/books?id=t2FItc1uOwYC&amp;dq=cartagena&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/preview' type='text/html'
+			href='http://books.google.com/books?id=t2FItc1uOwYC&amp;printsec=frontcover&amp;dq=cartagena&amp;cd=11&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/annotation' type='application/atom+xml'
+			href='http://www.google.com/books/feeds/users/me/volumes' />
+		<link rel='alternate' type='text/html'
+			href='http://books.google.com/books?id=t2FItc1uOwYC&amp;dq=cartagena' />
+		<link rel='self' type='application/atom+xml'
+			href='http://www.google.com/books/feeds/volumes/t2FItc1uOwYC' />
+		<gbs:contentVersion>0.2.3.0.preview.1</gbs:contentVersion>
+		<gbs:embeddability value='http://schemas.google.com/books/2008#embeddable' />
+		<gbs:openAccess value='http://schemas.google.com/books/2008#disabled' />
+		<gbs:viewability value='http://schemas.google.com/books/2008#view_partial' />
+		<dc:creator>Maruja Redondo Gómez</dc:creator>
+		<dc:date>2004</dc:date>
+		<dc:format>236
+			pages
+		</dc:format>
+		<dc:format>book</dc:format>
+		<dc:identifier>t2FItc1uOwYC</dc:identifier>
+		<dc:identifier>ISBN:9589029639</dc:identifier>
+		<dc:identifier>ISBN:9789589029
+			633
+		</dc:identifier>
+		<dc:language>es</dc:language>
+		<dc:publisher>U. Jorge Tadeo Lozano</dc:publisher>
+		<dc:subject>Cartagena
+			(Colombia)
+		</dc:subject>
+		<dc:title>Cartagena de Indias</dc:title>
+		<dc:title>cinco siglos de evolución
+			urbanística
+		</dc:title>
+	</entry>
+	<entry>
+		<id>http://www.google.com/books/feeds/volumes/sTkeAAAAMAAJ</id>
+		<updated>2019-04-17T15:11:46.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind'
+			term='http://schemas.google.com/books/2008#volume' />
+		<title type='text'>Cartagena</title>
+		<link rel='http://schemas.google.com/books/2008/thumbnail' type='image/x-unknown'
+			href='http://books.google.com/books/content?id=sTkeAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=5&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/info' type='text/html'
+			href='http://books.google.com/books?id=sTkeAAAAMAAJ&amp;dq=cartagena&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/preview' type='text/html'
+			href='http://books.google.com/books?id=sTkeAAAAMAAJ&amp;q=cartagena&amp;dq=cartagena&amp;cd=12&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/annotation' type='application/atom+xml'
+			href='http://www.google.com/books/feeds/users/me/volumes' />
+		<link rel='alternate' type='text/html'
+			href='http://books.google.com/books?id=sTkeAAAAMAAJ&amp;dq=cartagena' />
+		<link rel='self' type='application/atom+xml'
+			href='http://www.google.com/books/feeds/volumes/sTkeAAAAMAAJ' />
+		<gbs:contentVersion>0.1.2.0.preview.0</gbs:contentVersion>
+		<gbs:embeddability
+			value='http://schemas.google.com/books/2008#not_embeddable' />
+		<gbs:openAccess value='http://schemas.google.com/books/2008#disabled' />
+		<gbs:viewability value='http://schemas.google.com/books/2008#view_no_pages' />
+		<dc:creator>Armando Solano</dc:creator>
+		<dc:date>1942</dc:date>
+		<dc:format>59
+			pages
+		</dc:format>
+		<dc:format>book</dc:format>
+		<dc:identifier>sTkeAAAAMAAJ</dc:identifier>
+		<dc:identifier>UOM:39015027987414</dc:identifier>
+		<dc:language>
+			es
+		</dc:language>
+			<dc:subject>Architecture</dc:subject>
+			<dc:title>Cartagena</dc:title>
+	</entry>
+	<entry>
+		<id>http://www.google.com/books/feeds/volumes/RKtozFOJSKIC</id>
+		<updated>2019-04
+			-17T15:11:46.000Z
+		</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind'
+			term='http://schemas.google.com/books/2008#volume' />
+		<title type='text'>Cartagena, 1874-1936 (transformación urbana y
+			arquitectura)</title>
+		<link rel='http://schemas.google.com/books/2008/thumbnail' type='image/x-unknown'
+			href='http://books.google.com/books/content?id=RKtozFOJSKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=5&amp;edge=curl&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/info' type='text/html'
+			href='http://books.google.com/books?id=RKtozFOJSKIC&amp;dq=cartagena&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/preview' type='text/html'
+			href='http://books.google.com/books?id=RKtozFOJSKIC&amp;printsec=frontcover&amp;dq=cartagena&amp;cd=13&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/annotation' type='application/atom+xml'
+			href='http://www.google.com/books/feeds/users/me/volumes' />
+		<link rel='alternate' type='text/html'
+			href='http://books.google.com/books?id=RKtozFOJSKIC&amp;dq=cartagena' />
+		<link rel='self' type='application/atom+xml'
+			href='http://www.google.com/books/feeds/volumes/RKtozFOJSKIC' />
+		<gbs:contentVersion>0.1.1.0.preview.1</gbs:contentVersion>
+		<gbs:embeddability value='http://schemas.google.com/books/2008#embeddable' />
+		<gbs:openAccess value='http://schemas.google.com/books/2008#disabled' />
+		<gbs:viewability value='http://schemas.google.com/books/2008#view_partial' />
+		<dc:creator>Javier Pérez Rojas</dc:creator>
+		<dc:date>1986-01-01</dc:date>
+		<dc:format>189
+			pages
+		</dc:format>
+		<dc:format>book</dc:format>
+		<dc:identifier>RKtozFOJSKIC</dc:identifier>
+		<dc:identifier>ISBN:8475640389</dc:identifier>
+		<dc:identifier>ISBN:9788475640
+			389
+		</dc:identifier>
+		<dc:language>es</dc:language>
+		<dc:publisher>EDITUM</dc:publisher>
+		<dc:subject>History</dc:subject>
+		<dc:title>Cartagena, 1874-1936 (transformación
+			urbana y
+			arquitectura)
+		</dc:title>
+	</entry>
+	<entry>
+		<id>http://www.google.com/books/feeds/volumes/iylJAQAAIAAJ</id>
+		<updated>2019-04-17T15:11:46.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind'
+			term='http://schemas.google.com/books/2008#volume' />
+		<title type='text'>Cartagena</title>
+		<link rel='http://schemas.google.com/books/2008/thumbnail' type='image/x-unknown'
+			href='http://books.google.com/books/content?id=iylJAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=5&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/info' type='text/html'
+			href='http://books.google.com/books?id=iylJAQAAIAAJ&amp;dq=cartagena&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/preview' type='text/html'
+			href='http://books.google.com/books?id=iylJAQAAIAAJ&amp;q=cartagena&amp;dq=cartagena&amp;cd=14&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/annotation' type='application/atom+xml'
+			href='http://www.google.com/books/feeds/users/me/volumes' />
+		<link rel='alternate' type='text/html'
+			href='http://books.google.com/books?id=iylJAQAAIAAJ&amp;dq=cartagena' />
+		<link rel='self' type='application/atom+xml'
+			href='http://www.google.com/books/feeds/volumes/iylJAQAAIAAJ' />
+		<gbs:contentVersion>preview-1.0.0</gbs:contentVersion>
+		<gbs:embeddability
+			value='http://schemas.google.com/books/2008#not_embeddable' />
+		<gbs:openAccess value='http://schemas.google.com/books/2008#disabled' />
+		<gbs:viewability value='http://schemas.google.com/books/2008#view_no_pages' />
+		<dc:creator>José Luis Andrés Sarasa</dc:creator>
+		<dc:date>1981</dc:date>
+		<dc:format>36
+			pages
+		</dc:format>
+		<dc:format>book</dc:format>
+		<dc:identifier>iylJAQAAIAAJ</dc:identifier>
+		<dc:identifier>UCAL:B5167161</dc:identifier>
+		<dc:language>es</dc:language>
+		<dc:subject>
+			Cartagena (Spain)
+		</dc:subject>
+			<dc:title>Cartagena</dc:title>
+			<dc:title>estudio de geografía
+				urbana
+			</dc:title>
+	</entry>
+	<entry>
+		<id>http://www.google.com/books/feeds/volumes/Fhn0g5EGaEkC</id>
+		<updated>2019-04-17T15:11:46.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind'
+			term='http://schemas.google.com/books/2008#volume' />
+		<title type='text'>El Arte tipográfico en
+			Cartagena
+		</title>
+		<link rel='http://schemas.google.com/books/2008/thumbnail' type='image/x-unknown'
+			href='http://books.google.com/books/content?id=Fhn0g5EGaEkC&amp;printsec=frontcover&amp;img=1&amp;zoom=5&amp;edge=curl&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/info' type='text/html'
+			href='http://books.google.com/books?id=Fhn0g5EGaEkC&amp;dq=cartagena&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/preview' type='text/html'
+			href='http://books.google.com/books?id=Fhn0g5EGaEkC&amp;printsec=frontcover&amp;dq=cartagena&amp;cd=15&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/annotation' type='application/atom+xml'
+			href='http://www.google.com/books/feeds/users/me/volumes' />
+		<link rel='alternate' type='text/html'
+			href='http://books.google.com/books?id=Fhn0g5EGaEkC&amp;dq=cartagena' />
+		<link rel='self' type='application/atom+xml'
+			href='http://www.google.com/books/feeds/volumes/Fhn0g5EGaEkC' />
+		<gbs:contentVersion>1.1.0.0.preview.1</gbs:contentVersion>
+		<gbs:embeddability value='http://schemas.google.com/books/2008#embeddable' />
+		<gbs:openAccess value='http://schemas.google.com/books/2008#disabled' />
+		<gbs:viewability value='http://schemas.google.com/books/2008#view_partial' />
+		<dc:date>1764</dc:date>
+		<dc:format>145
+			pages
+		</dc:format>
+		<dc:format>book</dc:format>
+		<dc:identifier>Fhn0g5EGaEkC</dc:identifier>
+		<dc:identifier>ISBN:9788460919384</dc:identifier>
+		<dc:identifier>ISBN:8460919
+			382
+		</dc:identifier>
+		<dc:language>es</dc:language>
+		<dc:publisher>Antonio del Puig</dc:publisher>
+		<dc:title>El Arte tipográfico en
+			Cartagena
+		</dc:title>
+	</entry>
+	<entry>
+		<id>http://www.google.com/books/feeds/volumes/puXFrdnIEP0C</id>
+		<updated>2019-04-17T15:11:46.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind'
+			term='http://schemas.google.com/books/2008#volume' />
+		<title type='text'>Cartagena de Indias en el siglo
+			XIX
+		</title>
+		<link rel='http://schemas.google.com/books/2008/thumbnail' type='image/x-unknown'
+			href='http://books.google.com/books/content?id=puXFrdnIEP0C&amp;printsec=frontcover&amp;img=1&amp;zoom=5&amp;edge=curl&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/info' type='text/html'
+			href='http://books.google.com/books?id=puXFrdnIEP0C&amp;dq=cartagena&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/preview' type='text/html'
+			href='http://books.google.com/books?id=puXFrdnIEP0C&amp;printsec=frontcover&amp;dq=cartagena&amp;cd=16&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/annotation' type='application/atom+xml'
+			href='http://www.google.com/books/feeds/users/me/volumes' />
+		<link rel='alternate' type='text/html'
+			href='http://books.google.com/books?id=puXFrdnIEP0C&amp;dq=cartagena' />
+		<link rel='self' type='application/atom+xml'
+			href='http://www.google.com/books/feeds/volumes/puXFrdnIEP0C' />
+		<gbs:contentVersion>0.0.2.0.preview.1</gbs:contentVersion>
+		<gbs:embeddability value='http://schemas.google.com/books/2008#embeddable' />
+		<gbs:openAccess value='http://schemas.google.com/books/2008#disabled' />
+		<gd:rating min='1' max='5' average='5.00' />
+		<gbs:viewability value='http://schemas.google.com/books/2008#view_partial' />
+		<dc:date>2002</dc:date>
+		<dc:format>305
+			pages
+		</dc:format>
+		<dc:format>book</dc:format>
+		<dc:identifier>puXFrdnIEP0C</dc:identifier>
+		<dc:identifier>ISBN:9589029477</dc:identifier>
+		<dc:identifier>ISBN:9789589029
+			473
+		</dc:identifier>
+		<dc:language>es</dc:language>
+		<dc:publisher>U. Jorge Tadeo Lozano</dc:publisher>
+		<dc:subject>Cartagena
+			(Colombia)
+		</dc:subject>
+		<dc:title>Cartagena de Indias en el siglo
+			XIX
+		</dc:title>
+	</entry>
+	<entry>
+		<id>http://www.google.com/books/feeds/volumes/rpp4AAAAMAAJ</id>
+		<updated>2019-04-17T15:11:46.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind'
+			term='http://schemas.google.com/books/2008#volume' />
+		<title type='text'>Historias, leyendas y tradiciones de
+			Cartagena
+		</title>
+		<link rel='http://schemas.google.com/books/2008/thumbnail' type='image/x-unknown'
+			href='http://books.google.com/books/content?id=rpp4AAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=5&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/info' type='text/html'
+			href='http://books.google.com/books?id=rpp4AAAAMAAJ&amp;dq=cartagena&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/preview' type='text/html'
+			href='http://books.google.com/books?id=rpp4AAAAMAAJ&amp;q=cartagena&amp;dq=cartagena&amp;cd=17&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/annotation' type='application/atom+xml'
+			href='http://www.google.com/books/feeds/users/me/volumes' />
+		<link rel='alternate' type='text/html'
+			href='http://books.google.com/books?id=rpp4AAAAMAAJ&amp;dq=cartagena' />
+		<link rel='self' type='application/atom+xml'
+			href='http://www.google.com/books/feeds/volumes/rpp4AAAAMAAJ' />
+		<gbs:contentVersion>0.1.1.0.preview.0</gbs:contentVersion>
+		<gbs:embeddability
+			value='http://schemas.google.com/books/2008#not_embeddable' />
+		<gbs:openAccess value='http://schemas.google.com/books/2008#disabled' />
+		<gbs:viewability value='http://schemas.google.com/books/2008#view_no_pages' />
+		<dc:date>1947</dc:date>
+		<dc:format>book</dc:format>
+		<dc:identifier>rpp4AAAAMAAJ</dc:identifier>
+		<dc:identifier>
+			UTEXAS:059173023643966
+		</dc:identifier>
+			<dc:language>es</dc:language>
+			<dc:subject>Cartagena (Colombia)</dc:subject>
+			<dc:title>Historias, leyendas y tradiciones
+				de Cartagena
+			</dc:title>
+	</entry>
+	<entry>
+		<id>http://www.google.com/books/feeds/volumes/lYrqLorBERgC</id>
+		<updated>2019-04-17T15:11:46.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind'
+			term='http://schemas.google.com/books/2008#volume' />
+		<title type='text'>Prácticas religiosas de los negros en la
+			colonia
+		</title>
+		<link rel='http://schemas.google.com/books/2008/thumbnail' type='image/x-unknown'
+			href='http://books.google.com/books/content?id=lYrqLorBERgC&amp;printsec=frontcover&amp;img=1&amp;zoom=5&amp;edge=curl&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/info' type='text/html'
+			href='http://books.google.com/books?id=lYrqLorBERgC&amp;dq=cartagena&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/preview' type='text/html'
+			href='http://books.google.com/books?id=lYrqLorBERgC&amp;printsec=frontcover&amp;dq=cartagena&amp;cd=18&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/annotation' type='application/atom+xml'
+			href='http://www.google.com/books/feeds/users/me/volumes' />
+		<link rel='alternate' type='text/html'
+			href='http://books.google.com/books?id=lYrqLorBERgC&amp;dq=cartagena' />
+		<link rel='self' type='application/atom+xml'
+			href='http://www.google.com/books/feeds/volumes/lYrqLorBERgC' />
+		<gbs:contentVersion>0.0.1.0.preview.1</gbs:contentVersion>
+		<gbs:embeddability value='http://schemas.google.com/books/2008#embeddable' />
+		<gbs:openAccess value='http://schemas.google.com/books/2008#disabled' />
+		<gbs:viewability value='http://schemas.google.com/books/2008#view_partial' />
+		<dc:creator>María Cristina Navarrete</dc:creator>
+		<dc:date>1995-01-01</dc:date>
+		<dc:description>This
+			work, and author&amp;#39;s companion study (see item #bi 97009284#), are
+			exceptionally important works that contribute signficantly to the
+			social history of
+			Afro-Colombians&amp;quot;--Handbook of Latin American Studies, v. 58.</dc:description>
+		<dc:format>174
+			pages
+		</dc:format>
+		<dc:format>book</dc:format>
+		<dc:identifier>lYrqLorBERgC</dc:identifier>
+		<dc:identifier>ISBN:9586700380</dc:identifier>
+		<dc:identifier>ISBN:9789586700
+			382
+		</dc:identifier>
+		<dc:language>es</dc:language>
+		<dc:publisher>Universidad del Valle</dc:publisher>
+		<dc:subject>Blacks</dc:subject>
+		<dc:title>Prácticas religiosas
+			de los negros en la colonia
+		</dc:title>
+		<dc:title>Cartagena, siglo
+			XVII
+		</dc:title>
+	</entry>
+	<entry>
+		<id>http://www.google.com/books/feeds/volumes/1iuJz2Ku9YQC</id>
+		<updated>2019-04-17T15:11:46.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind'
+			term='http://schemas.google.com/books/2008#volume' />
+		<title type='text'>El habla de Cartagena</title>
+		<link rel='http://schemas.google.com/books/2008/thumbnail' type='image/x-unknown'
+			href='http://books.google.com/books/content?id=1iuJz2Ku9YQC&amp;printsec=frontcover&amp;img=1&amp;zoom=5&amp;edge=curl&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/info' type='text/html'
+			href='http://books.google.com/books?id=1iuJz2Ku9YQC&amp;dq=cartagena&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/preview' type='text/html'
+			href='http://books.google.com/books?id=1iuJz2Ku9YQC&amp;printsec=frontcover&amp;dq=cartagena&amp;cd=19&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/annotation' type='application/atom+xml'
+			href='http://www.google.com/books/feeds/users/me/volumes' />
+		<link rel='alternate' type='text/html'
+			href='http://books.google.com/books?id=1iuJz2Ku9YQC&amp;dq=cartagena' />
+		<link rel='self' type='application/atom+xml'
+			href='http://www.google.com/books/feeds/volumes/1iuJz2Ku9YQC' />
+		<gbs:contentVersion>preview-1.0.0</gbs:contentVersion>
+		<gbs:embeddability value='http://schemas.google.com/books/2008#embeddable' />
+		<gbs:openAccess value='http://schemas.google.com/books/2008#disabled' />
+		<gbs:viewability value='http://schemas.google.com/books/2008#view_partial' />
+		<dc:creator>Ginés García Martínez</dc:creator>
+		<dc:date>1986-01-01</dc:date>
+		<dc:format>520
+			pages
+		</dc:format>
+		<dc:format>book</dc:format>
+		<dc:identifier>1iuJz2Ku9YQC</dc:identifier>
+		<dc:identifier>ISBN:8476840187</dc:identifier>
+		<dc:identifier>ISBN:9788476840
+			184
+		</dc:identifier>
+		<dc:language>es</dc:language>
+		<dc:publisher>EDITUM</dc:publisher>
+		<dc:subject>Cartagena (Spain)</dc:subject>
+		<dc:title>El habla de
+			Cartagena
+		</dc:title>
+		<dc:title>palabras y cosas : notas para el estudio del castellano
+			vulgar actual y de la propagación del aragonés y del catalán por el
+			Sur
+		</dc:title>
+	</entry>
+	<entry>
+		<id>http://www.google.com/books/feeds/volumes/pE9hl1gl3w4C</id>
+		<updated>2019-04-17T15:11:46.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind'
+			term='http://schemas.google.com/books/2008#volume' />
+		<title type='text'>Los jesuitas en Cartagena de Indias,
+			1604-1767
+		</title>
+		<link rel='http://schemas.google.com/books/2008/thumbnail' type='image/x-unknown'
+			href='http://books.google.com/books/content?id=pE9hl1gl3w4C&amp;printsec=frontcover&amp;img=1&amp;zoom=5&amp;edge=curl&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/info' type='text/html'
+			href='http://books.google.com/books?id=pE9hl1gl3w4C&amp;dq=cartagena&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/preview' type='text/html'
+			href='http://books.google.com/books?id=pE9hl1gl3w4C&amp;printsec=frontcover&amp;dq=cartagena&amp;cd=20&amp;source=gbs_gdata' />
+		<link rel='http://schemas.google.com/books/2008/annotation' type='application/atom+xml'
+			href='http://www.google.com/books/feeds/users/me/volumes' />
+		<link rel='alternate' type='text/html'
+			href='http://books.google.com/books?id=pE9hl1gl3w4C&amp;dq=cartagena' />
+		<link rel='self' type='application/atom+xml'
+			href='http://www.google.com/books/feeds/volumes/pE9hl1gl3w4C' />
+		<gbs:contentVersion>1.1.1.0.preview.1</gbs:contentVersion>
+		<gbs:embeddability value='http://schemas.google.com/books/2008#embeddable' />
+		<gbs:openAccess value='http://schemas.google.com/books/2008#disabled' />
+		<gbs:viewability value='http://schemas.google.com/books/2008#view_partial' />
+		<dc:creator>José del Rey Fajardo</dc:creator>
+		<dc:date>2004</dc:date>
+		<dc:format>371
+			pages
+		</dc:format>
+		<dc:format>book</dc:format>
+		<dc:identifier>pE9hl1gl3w4C</dc:identifier>
+		<dc:identifier>ISBN:9586836711</dc:identifier>
+		<dc:identifier>ISBN:9789586836
+			715
+		</dc:identifier>
+		<dc:language>es</dc:language>
+		<dc:publisher>Pontificia Universidad Javeriana</dc:publisher>
+		<dc:subject>Cartagena,
+			Colombia
+		</dc:subject>
+		<dc:title>Los jesuitas en Cartagena de Indias, 1604-1767</dc:title>
+	</entry>
+</feed>
